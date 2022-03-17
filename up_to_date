@@ -1,1 +1,1 @@
-git pull merge master
+git pull fetch master
